@@ -3,11 +3,11 @@
   "enabled": true,
   "ads": [
     {
-      "id": "tgs-discord",
+      "id": "test-mp4",
       "type": "video",
-      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-      "title": "Patrocinado por TGS",
-      "clickUrl": "https://discord.gg/SEU_LINK",
+      "url": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/360/Big_Buck_Bunny_360_10s_1MB.mp4",
+      "title": "Patrocinado por TGS (teste MP4)",
+      "clickUrl": "https://github.com/T1NG4/TGS-ads",
       "minWatchPercent": 100
     }
   ],
